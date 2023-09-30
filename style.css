@@ -1,0 +1,79 @@
+body{
+    min-height: 100vh;
+    
+     background-image: url(./school/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.parts{
+    min-height: 400px;
+    background-color: white;
+}
+#part1{
+    height: 50px;
+    background-color: #5f653d;
+}
+#part2{
+    height: 80vh;
+    /* background-image: url(./images/banner1.webp); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+}
+#part3{
+    background-image: url(./school/cut1.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position:bottom right;
+}
+#part4{
+    background-image: url(./school/cut2.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: bottom left;
+}
+#part5{
+    background-image: url(./school/pattern.png);
+    background-repeat: repeat;
+    background-size: auto;
+    opacity: 0.6;
+}
+.parallex{
+    background-image: url(./school/banner2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#part6{
+    /* background-color: #3f3f3f;
+    height: 200px; */
+}
+#part7{
+    background-image: url('./school/colorfull1.jpg');
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background-size: 200px;
+}
+#part8{
+    background-color: rgb(140 75 33 / 76%);
+}
+#part9{
+    background-image: url('./school/colorfull2.jpg');
+    background-position: top;
+    background-repeat: repeat-x;
+    background-size: 200px;
+}
+#part10{
+    background-image: url('./school/cut2.jpg');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+#part11{
+    background-image: url(./school/pattern.png);
+    height: 50px;
+}
+#part12{
+    background-color: #5f653d;
+    height: 200px;
+}
